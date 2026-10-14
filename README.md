@@ -42,10 +42,10 @@ FastAPI 기반 추천 서비스와 서비스 간 통합을 담당했습니다.
 
 `Python` `FastAPI` `OpenAI` `REST API` `MariaDB` `Vue`
 
-[Repository · 실제 구현(dev)](https://github.com/OMGimin/linguaroute-msa-project/tree/dev) · [담당 기능과 기술 선택](https://github.com/OMGimin/linguaroute-msa-project/blob/main/docs/learning-notes/ai-recommendation-development-retrospective.md) · [통합 검증 기록](https://github.com/OMGimin/linguaroute-msa-project/blob/dev/docs/mvp-verification.md)
+[Repository](https://github.com/OMGimin/linguaroute-msa-project) · [담당 기능과 기술 선택](https://github.com/OMGimin/linguaroute-msa-project/blob/main/docs/learning-notes/ai-recommendation-development-retrospective.md) · [통합 검증 기록](https://github.com/OMGimin/linguaroute-msa-project/blob/dev/docs/mvp-verification.md)
 
-공개 dev 구현에서 추천 후보의 ID·중복·언어를 검증하고, AI 호출 실패 시 규칙 기반 추천으로 전환합니다.
-[핵심 구현](https://github.com/OMGimin/linguaroute-msa-project/blob/694d828acc362fe604a18643f29d75bb28f8eb0b/recommend-service/app/service/recommend_service.py#L48-L129) · [테스트](https://github.com/OMGimin/linguaroute-msa-project/blob/694d828acc362fe604a18643f29d75bb28f8eb0b/recommend-service/tests/test_recommendation_service.py#L37-L93)
+main 구현에서 추천 후보의 ID·중복·언어를 검증하고, AI 호출 실패 시 규칙 기반 추천으로 전환합니다.
+[핵심 구현](https://github.com/OMGimin/linguaroute-msa-project/blob/ced08531764c2a38947a270ae38066ab6cf37030/recommend-service/app/service/recommend_service.py#L48-L129) · [테스트](https://github.com/OMGimin/linguaroute-msa-project/blob/ced08531764c2a38947a270ae38066ab6cf37030/recommend-service/tests/test_recommendation_service.py#L37-L93)
 
 ## AI-native Development
 
