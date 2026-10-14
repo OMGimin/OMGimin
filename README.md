@@ -27,6 +27,9 @@ SKALA 팀 프로젝트를 기반으로 개인 저장소에서 LangChain/OpenAI �
 
 [Repository](https://github.com/OMGimin/mini-web-project) · [AI 연결 구조](https://github.com/OMGimin/mini-web-project/blob/main/docs/langchain-integration.md) · [검증 기록](https://github.com/OMGimin/mini-web-project/blob/main/docs/langchain-verification.md)
 
+재시도 후 늦게 도착한 이전 응답이 새 결과를 덮어쓰지 않도록 요청 ID·단계·상태를 검사합니다.
+[핵심 구현](https://github.com/OMGimin/mini-web-project/blob/6f7b762edd55e2a29978499faae90c85ce0cac2d/backend/src/main/java/com/skala/team6/webmini/trial/TrialGenerationService.java#L233-L246) · [테스트](https://github.com/OMGimin/mini-web-project/blob/6f7b762edd55e2a29978499faae90c85ce0cac2d/backend/src/test/java/com/skala/team6/webmini/trial/TrialGenerationRecoveryAcceptanceTest.java#L66-L119)
+
 ### 02 · LinguaRoute
 
 **기업 외국어교육 MSA의 AI 추천 서비스와 통합**
@@ -39,7 +42,10 @@ FastAPI 기반 추천 서비스와 서비스 간 통합을 담당했습니다.
 
 `Python` `FastAPI` `OpenAI` `REST API` `MariaDB` `Vue`
 
-[Repository](https://github.com/OMGimin/linguaroute-msa-project) · [담당 기능과 기술 선택](https://github.com/OMGimin/linguaroute-msa-project/blob/main/docs/learning-notes/ai-recommendation-development-retrospective.md) · [통합 검증 기록](https://github.com/OMGimin/linguaroute-msa-project/blob/dev/docs/mvp-verification.md)
+[Repository · 실제 구현(dev)](https://github.com/OMGimin/linguaroute-msa-project/tree/dev) · [담당 기능과 기술 선택](https://github.com/OMGimin/linguaroute-msa-project/blob/main/docs/learning-notes/ai-recommendation-development-retrospective.md) · [통합 검증 기록](https://github.com/OMGimin/linguaroute-msa-project/blob/dev/docs/mvp-verification.md)
+
+공개 dev 구현에서 추천 후보의 ID·중복·언어를 검증하고, AI 호출 실패 시 규칙 기반 추천으로 전환합니다.
+[핵심 구현](https://github.com/OMGimin/linguaroute-msa-project/blob/694d828acc362fe604a18643f29d75bb28f8eb0b/recommend-service/app/service/recommend_service.py#L48-L129) · [테스트](https://github.com/OMGimin/linguaroute-msa-project/blob/694d828acc362fe604a18643f29d75bb28f8eb0b/recommend-service/tests/test_recommendation_service.py#L37-L93)
 
 ## AI-native Development
 
