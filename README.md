@@ -1,6 +1,6 @@
 <div align="center">
 
-# OMGimin
+# 김지민
 
 ### AI를 서비스에 연결하는 Backend · Full-stack 개발자
 
