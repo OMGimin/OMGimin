@@ -4,7 +4,7 @@
 
 ### Backend · Full-stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1400&amp;color=2AA889&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;lines=Connecting+AI+to+real+services.;Building+APIs%2C+data%2C+and+interfaces." alt="Connecting AI to real services. Building APIs, data, and interfaces." width="600" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1400&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;lines=Connecting+AI+to+real+services.;Building+APIs%2C+data%2C+and+interfaces." alt="Connecting AI to real services. Building APIs, data, and interfaces." width="600" />
 
 목적에 맞는 AI 기술을 선택하고,<br>
 API와 데이터를 연결해 서비스로 구현합니다.
@@ -95,7 +95,7 @@ OpenAI API · LangChain · Docker Compose · Git
 
 ## GitHub Activity
 
-[![OMGimin의 연간 GitHub 활동 요약](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OMGimin&theme=github_dark)](https://github.com/OMGimin?tab=overview)
+[![OMGimin의 연간 GitHub 활동 요약](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OMGimin&theme=tokyonight)](https://github.com/OMGimin?tab=overview)
 
 <sub>외부 서비스의 활동 요약입니다. 집계 범위와 캐시 때문에 GitHub 본문의 수치와 다를 수 있습니다.</sub>
 
