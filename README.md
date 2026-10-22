@@ -84,8 +84,13 @@ OpenAI API · LangChain · Docker Compose · Git
 | :--- | :--- |
 | 2026.07–현재 | **SKALA · SK AI Leader Academy** — AI·데이터·웹 서비스 개발 교육 및 프로젝트 |
 | 2025.07 | **으뜸정보기술 인턴** — SaaS·클라우드 교육 교재 3건 공동 개발 참여 |
-| 2024.06–2024.08 | **Google Cloud 기반 AI 인재양성 프로그램** — Mindrawing 프로젝트, 최우수 AI 혁신상 팀 수상(2024.09, Google AI 융합혁신기술 전국대회) |
+| 2024.06–2024.08 | **Google Cloud 기반 AI 인재양성 프로그램** — Mindrawing 프로젝트 |
 | 2020.03–2026.02 | **조선대학교 컴퓨터공학전공** |
+
+## Awards
+
+- **최우수 AI 혁신상** · 2024 Google AI 융합혁신기술 전국대회 · 2024.09<br>
+  Mindrawing 프로젝트 · 팀 수상
 
 ## Currently Exploring
 
