@@ -54,29 +54,12 @@ AI 기능이 실제 서비스에서 쓰일 수 있도록 API, 데이터 저장, 
 
 프로젝트에서 반복해서 활용한 기술을 중심으로 정리했습니다.
 
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring&amp;theme=dark" alt="Python, FastAPI, Java, Spring Boot" height="42" />
-
-Python · FastAPI · Java · Spring Boot
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=js,vue&amp;theme=dark" alt="JavaScript, Vue" height="42" />
-
-JavaScript · Vue
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" height="42" />
-
-MariaDB · PostgreSQL
-
-**AI / Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,git&amp;theme=dark" alt="Docker, Git" height="42" />
-
-OpenAI API · LangChain · Docker Compose · Git
+| 분야 | 기술 |
+| :--- | :--- |
+| **BACKEND** | ![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square&logo=fastapi&logoColor=white) ![Java](https://img.shields.io/badge/Java-7C3AED?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-7C3AED?style=flat-square&logo=springboot&logoColor=white) |
+| **FRONTEND** | ![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-7C3AED?style=flat-square&logo=vuedotjs&logoColor=white) |
+| **DATABASE** | ![MariaDB](https://img.shields.io/badge/MariaDB-7C3AED?style=flat-square&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white) |
+| **AI / TOOLS** | ![OpenAI API](https://img.shields.io/badge/OpenAI_API-7C3AED?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square&logo=langchain&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-7C3AED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-7C3AED?style=flat-square&logo=git&logoColor=white) |
 
 ## Experience & Education
 
