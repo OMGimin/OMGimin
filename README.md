@@ -9,7 +9,7 @@
 목적에 맞는 AI 기술을 선택하고,<br>
 API와 데이터를 연결해 서비스로 구현합니다.
 
-[Projects](#selected-projects) · [Tech Stack](#tech-stack) · [Development Notes](https://github.com/OMGimin/codex-agent-playbook)
+[Projects](#projects) · [Tech Stack](#tech-stack) · [Development Notes](https://github.com/OMGimin/codex-agent-playbook)
 
 </div>
 
@@ -18,7 +18,7 @@ API와 데이터를 연결해 서비스로 구현합니다.
 AI 기능이 실제 서비스에서 쓰일 수 있도록 API, 데이터 저장, 사용자 화면을 연결합니다.
 응답이 잘못되거나 요청이 실패했을 때의 처리까지 살피고, 직접 사용하며 발견한 불편을 개선합니다.
 
-## Selected Projects
+## Projects
 
 ### 01 · 사랑과 전쟁터
 
