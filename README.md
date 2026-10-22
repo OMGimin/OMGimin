@@ -10,8 +10,6 @@
 API와 데이터를 연결해 서비스로 구현합니다.<br>
 직접 사용하며 발견한 불편과 실패 상황을 개선합니다.
 
-[Projects](#projects) · [Tech Stack](#tech-stack) · [Development Notes](https://github.com/OMGimin/codex-agent-playbook)
-
 </div>
 
 ## Projects
