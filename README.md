@@ -4,7 +4,7 @@
 
 ### Backend · Full-stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1400&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;lines=Connecting+AI+to+real+services.;Building+APIs%2C+data%2C+and+interfaces." alt="Connecting AI to real services. Building APIs, data, and interfaces." width="600" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1400&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;lines=Connecting+AI%2C+APIs%2C+and+user+experiences." alt="Connecting AI, APIs, and user experiences." width="600" />
 
 목적에 맞는 AI 기술을 선택하고,<br>
 API와 데이터를 연결해 서비스로 구현합니다.
