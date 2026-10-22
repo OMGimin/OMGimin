@@ -4,6 +4,8 @@
 
 ### Backend · Full-stack Developer
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1400&amp;color=2AA889&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;lines=Connecting+AI+to+real+services.;Building+APIs%2C+data%2C+and+interfaces." alt="Connecting AI to real services. Building APIs, data, and interfaces." width="600" />
+
 목적에 맞는 AI 기술을 선택하고,<br>
 API와 데이터를 연결해 서비스로 구현합니다.
 
@@ -52,12 +54,29 @@ AI 기능이 실제 서비스에서 쓰일 수 있도록 API, 데이터 저장, 
 
 프로젝트에서 반복해서 활용한 기술을 중심으로 정리했습니다.
 
-| 분야 | 기술 |
-| :--- | :--- |
-| Backend | <kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>Java</kbd> <kbd>Spring Boot</kbd> |
-| Frontend | <kbd>JavaScript</kbd> <kbd>Vue</kbd> |
-| Database | <kbd>MariaDB</kbd> <kbd>PostgreSQL</kbd> |
-| AI / Tools | <kbd>OpenAI API</kbd> <kbd>LangChain</kbd> <kbd>Docker Compose</kbd> <kbd>Git</kbd> |
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring&amp;theme=dark" alt="Python, FastAPI, Java, Spring Boot" height="42" />
+
+Python · FastAPI · Java · Spring Boot
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,vue&amp;theme=dark" alt="JavaScript, Vue" height="42" />
+
+JavaScript · Vue
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" height="42" />
+
+MariaDB · PostgreSQL
+
+**AI / Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git&amp;theme=dark" alt="Docker, Git" height="42" />
+
+OpenAI API · LangChain · Docker Compose · Git
 
 ## Experience & Education
 
@@ -73,5 +92,11 @@ AI 기능이 실제 서비스에서 쓰일 수 있도록 API, 데이터 저장, 
 - LLM 기능을 API·데이터·사용자 화면으로 연결하는 서비스 개발
 - 잘못된 응답과 실패 상황을 재현하고 개선하는 검증 방식
 - 작업·검토·완료 기준을 정리한 개발 워크플로 — [Codex Agent Playbook](https://github.com/OMGimin/codex-agent-playbook)
+
+## GitHub Activity
+
+[![OMGimin의 연간 GitHub 활동 요약](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OMGimin&theme=github_dark)](https://github.com/OMGimin?tab=overview)
+
+<sub>외부 서비스의 활동 요약입니다. 집계 범위와 캐시 때문에 GitHub 본문의 수치와 다를 수 있습니다.</sub>
 
 <sub>프로젝트별 구현 범위, 실행 기록과 남은 한계는 각 저장소 문서에 정리했습니다.</sub>
