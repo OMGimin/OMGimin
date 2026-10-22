@@ -96,7 +96,3 @@ OpenAI API · LangChain · Docker Compose · Git
 ## GitHub Activity
 
 [![OMGimin의 연간 GitHub 활동 요약](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OMGimin&theme=tokyonight)](https://github.com/OMGimin?tab=overview)
-
-<sub>외부 서비스의 활동 요약입니다. 집계 범위와 캐시 때문에 GitHub 본문의 수치와 다를 수 있습니다.</sub>
-
-<sub>프로젝트별 구현 범위, 실행 기록과 남은 한계는 각 저장소 문서에 정리했습니다.</sub>
