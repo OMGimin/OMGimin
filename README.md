@@ -7,16 +7,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1400&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;lines=Connecting+AI%2C+APIs%2C+and+user+experiences." alt="Connecting AI, APIs, and user experiences." width="600" />
 
 목적에 맞는 AI 기술을 선택하고,<br>
-API와 데이터를 연결해 서비스로 구현합니다.
+API와 데이터를 연결해 서비스로 구현합니다.<br>
+직접 사용하며 발견한 불편과 실패 상황을 개선합니다.
 
 [Projects](#projects) · [Tech Stack](#tech-stack) · [Development Notes](https://github.com/OMGimin/codex-agent-playbook)
 
 </div>
-
-## About
-
-AI 기능이 실제 서비스에서 쓰일 수 있도록 API, 데이터 저장, 사용자 화면을 연결합니다.
-응답이 잘못되거나 요청이 실패했을 때의 처리까지 살피고, 직접 사용하며 발견한 불편을 개선합니다.
 
 ## Projects
 
